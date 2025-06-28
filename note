@@ -1,0 +1,15 @@
+#vihicles.mp4
+# Source Points (comma separated, format: x y, x y, ...)
+1260 800, 2280 800, 4255 1755, 0 1755
+# Destination Width
+25
+# Destination Height
+250
+
+#vihicles_vn.mp4
+# Source Points (comma separated, format: x y, x y, ...)
+980 300, 1630 300, 3130 1440, -500 1440
+# Destination Width
+25
+# Destination Height
+230
